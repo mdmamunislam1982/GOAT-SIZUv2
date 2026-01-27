@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "coinflip",
-    aliases: "cf",
+    aliases: ["cf"],
     version: "1.0",
     author: "SiFu",
     countDown: 5,
